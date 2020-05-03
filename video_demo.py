@@ -13,7 +13,7 @@ import core.utils as utils
 import tensorflow as tf
 from core.yolov3 import YOLOv3, decode
 
-video_path = "./video2test/vehicle.mp4"
+video_path = "./vehicle.mp4"
 
 writeVideo_flag = True
 # video_path      = 0 # 调用本机物理摄像头
