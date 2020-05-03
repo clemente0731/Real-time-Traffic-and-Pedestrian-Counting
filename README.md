@@ -8,6 +8,8 @@ This project focuses " counting and statistics of moving targets we care about "
 
 - The demo is available on Youtube and Bilibili
 - on my laptop gtx1060 FPS reached 15-20
+
+<br />
 <a name="fOSw7"></a>
 # Installation
 Reproduce the environment
@@ -40,7 +42,7 @@ python video_demo.py
 If you use this code for your publications, please cite it as:
 ```
 @ONLINE{vdtc,
-    author = "Clemente",
+    author = "Clemente420",
     title  = "Real-time-Traffic-and-Pedestrian-Counting",
     year   = "2020",
     url    = "https://github.com/Clemente420/Real-time-Traffic-and-Pedestrian-Counting"
