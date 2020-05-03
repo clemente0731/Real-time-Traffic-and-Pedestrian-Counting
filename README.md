@@ -7,7 +7,7 @@ This project focuses " counting and statistics of moving targets we care about "
 # Project Demo
 
 - The demo is available on Youtube and Bilibili
-- on my laptop gtx1060 FPS reached 15-20
+- on my laptop gtx1060 FPS reached 12-20
 
  ![car](https://github.com/Clemente420/Real-time-Traffic-and-Pedestrian-Counting/blob/master/docs/car.png "car")
  ![person](https://github.com/Clemente420/Real-time-Traffic-and-Pedestrian-Counting/blob/master/docs/person.png "person")
